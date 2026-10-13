@@ -1,5 +1,9 @@
 # Safety-aware autonomous AI
 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/5aurabh19/safety-aware-autonomous-ai/blob/main/Safety_Aware_Autonomous_AI.ipynb)
+
+Run the [Safety-Aware Autonomous AI notebook](Safety_Aware_Autonomous_AI.ipynb) in Google Colab or Jupyter for a guided case-study exercise.
+
 A responsive decision-support app for classifying industrial operational decisions. The classification is advisory: this application cannot trigger equipment actions and does not replace qualified safety, legal, or engineering review.
 
 ## Run locally
